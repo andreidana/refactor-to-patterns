@@ -1,0 +1,11 @@
+/Users/andrei.dana/Source/refactor-to-patterns/refactoring-to-patterns/bin/Debug/netcoreapp3.0/refactoring-to-patterns
+/Users/andrei.dana/Source/refactor-to-patterns/refactoring-to-patterns/bin/Debug/netcoreapp3.0/refactoring-to-patterns.deps.json
+/Users/andrei.dana/Source/refactor-to-patterns/refactoring-to-patterns/bin/Debug/netcoreapp3.0/refactoring-to-patterns.runtimeconfig.json
+/Users/andrei.dana/Source/refactor-to-patterns/refactoring-to-patterns/bin/Debug/netcoreapp3.0/refactoring-to-patterns.runtimeconfig.dev.json
+/Users/andrei.dana/Source/refactor-to-patterns/refactoring-to-patterns/bin/Debug/netcoreapp3.0/refactoring-to-patterns.dll
+/Users/andrei.dana/Source/refactor-to-patterns/refactoring-to-patterns/bin/Debug/netcoreapp3.0/refactoring-to-patterns.pdb
+/Users/andrei.dana/Source/refactor-to-patterns/refactoring-to-patterns/obj/Debug/netcoreapp3.0/refactoring-to-patterns.csprojAssemblyReference.cache
+/Users/andrei.dana/Source/refactor-to-patterns/refactoring-to-patterns/obj/Debug/netcoreapp3.0/refactoring-to-patterns.AssemblyInfoInputs.cache
+/Users/andrei.dana/Source/refactor-to-patterns/refactoring-to-patterns/obj/Debug/netcoreapp3.0/refactoring-to-patterns.AssemblyInfo.cs
+/Users/andrei.dana/Source/refactor-to-patterns/refactoring-to-patterns/obj/Debug/netcoreapp3.0/refactoring-to-patterns.dll
+/Users/andrei.dana/Source/refactor-to-patterns/refactoring-to-patterns/obj/Debug/netcoreapp3.0/refactoring-to-patterns.pdb
